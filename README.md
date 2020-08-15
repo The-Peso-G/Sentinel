@@ -3,6 +3,7 @@
 # Sentinel: Sentinel of Your Application
 
 [![Travis Build Status](https://travis-ci.org/alibaba/Sentinel.svg?branch=master)](https://travis-ci.org/alibaba/Sentinel)
+[![Financial Contributors](https://opencollective.com/Sentinel/all/badge.svg)](#contributors) 
 [![Codecov](https://codecov.io/gh/alibaba/Sentinel/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/Sentinel)
 [![Maven Central](https://img.shields.io/maven-central/v/com.alibaba.csp/sentinel-core.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:com.alibaba.csp%20AND%20a:sentinel-core)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
@@ -166,3 +167,33 @@ These are only part of the companies using Sentinel, for reference only. If you 
 ![Vivo](https://user-images.githubusercontent.com/9434884/49355264-c6f87600-f701-11e8-8109-054cf91df868.png)
 ![闪电购](http://cdn.52shangou.com/shandianbang/official-source/3.1.1/build/images/logo.png)
 ![拼多多](http://cdn.pinduoduo.com/assets/img/pdd_logo_v3.png)
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](./CONTRIBUTING.md)].
+<img src="https://opencollective.com/Sentinel/contributors.svg?width=890&button=false" />
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+
+<a href="https://github.com/alibaba/Sentinel/graphs/contributors"><img src="https://opencollective.com/Sentinel/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/Sentinel/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/Sentinel"><img src="https://opencollective.com/Sentinel/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/Sentinel/contribute)]
+
+<a href="https://opencollective.com/Sentinel/organization/0/website"><img src="https://opencollective.com/Sentinel/organization/0/avatar.svg"></a>
+
+
+
+
